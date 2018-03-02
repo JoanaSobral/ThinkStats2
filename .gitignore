@@ -65,3 +65,8 @@ docs/_build/
 
 # Jupyter Files
 .ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.leave
+*.yml
